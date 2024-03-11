@@ -2,12 +2,11 @@
 name = "practical01"
 version = "0.1.0"
 description = ""
-authors = ["aman-86 <aman.gupta@uqconnect.edu.au>"]
+authors = ["Aman Gupta <aman.gupta@uqconnect.edu.au>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.8"
-flask = "^3.0.2"
+python = "^3.12"
 
 
 [build-system]
